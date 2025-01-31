@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/change.svg</file>
+        <file>res/close.svg</file>
+        <file>res/last.svg</file>
+        <file>res/min.svg</file>
+        <file>res/next.svg</file>
+        <file>res/start.svg</file>
+        <file>res/stop.svg</file>
+        <file>res/wuqiong.svg</file>
+        <file>res/background.jpg</file>
+    </qresource>
+</RCC>
